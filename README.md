@@ -14,5 +14,3 @@
 :book: Infosec blog: https://charfweh.github.io/
 ## :earth_asia: Find Me:
 :mailbox: Discord: Care#4601</br> 
-:email: Email: affan.engg0@gmail.com
-
