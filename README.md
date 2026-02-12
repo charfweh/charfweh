@@ -1,16 +1,27 @@
 <div align="center"><h1>:wave: Hello, I'm Affan</h1></div>
 
-[![Carefree's github stats](https://github-readme-stats.vercel.app/api?username=charfweh&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/charfweh)
+## :gem: what I do for a living?
+Play pretend a hacker :nerd_face::point_up_2: before the real ones get to you. (offensive security for HR folks out here)
 
-## :bulb: Helpful Repositories 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=charfweh&repo=infosec-labs)](https://github.com/charfweh/infosec-labs)
+## :keyboard: Langauges
+- mostly python.
+- Learning C for rootkits development in Linux.
+- whole lot of web app frameworks
+- could audit your codebase though.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=charfweh&repo=Infosec_Notes)](https://github.com/charfweh/Infosec_Notes)
+## :mag: Interested in
+- web apps pentesting
+- rootkits development
+- malware development and rev engg
+- advance persistent threats 
+- threat hunting
+<img width="1984" height="1500" alt="image" src="https://github.com/user-attachments/assets/0122a9fd-5d12-4b29-a29a-160a8814134a" />
 
-## :keyboard: Languages that I've most worked on
-[![Most Used Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=charfweh&layout=compact&theme=tokyonight)](https://github.com/charfweh)
-
-## :book: Blog
-:book: Infosec blog: https://charfweh.github.io/
-## :earth_asia: Find Me:
-:mailbox: Discord: Care#4601</br> 
+   
+## :book: Socials
+:book: https://charfweh.github.io/ </br>
+:mailbox: Discord: carefr</br>
+🔗 https://tryhackme.com/p/MeNub</br>
+💻 https://app.hackthebox.com/users/686247</br>
+🏠 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> @gmail </a></br>
+swear those arent phishing :'(
