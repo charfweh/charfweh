@@ -7,10 +7,10 @@ Play pretend a hacker :nerd_face::point_up_2: before the real ones get to you. (
 - mostly python.
 - Learning C for rootkits development in Linux.
 - whole lot of web app frameworks
-- could audit your codebase though.
 
 ## :mag: Interested in
-- web apps pentesting
+- web apps pentest
+- application pentest
 - rootkits development
 - malware development and rev engg
 - advance persistent threats 
